@@ -5,7 +5,7 @@
   -📚 Studying Informatics Engineering at Universidad de la Sabana, finishing my first semester<br>
   -🤔 Interested in Software Development and/or Cybersecurity<br>
 <h2>🤓| What I know:</h2>
-  -♨️ Java basics, soon to be seeing OOP<br>
+  -♨️ Java basics, soon to be learning OOP<br>
   -🐍 Python basics, looking to have a deeper knowledge in the future<br>
 <h2>💻| My Programming Projects: </h2>
   -♨️| <a href="https://github.com/polosantini/Java">My projects in Java</a><br>
