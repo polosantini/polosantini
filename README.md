@@ -22,9 +22,9 @@
 
 <h2>📱| Connect with me:</h2>
 
-[<img align="left" alt="Martin Polo | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://t3.ftcdn.net/jpg/08/12/26/32/240_F_812263238_gCMXB5km0dGor3dPR7lLImuo7nVeKTwm.jpg)" />][linkedin] Linkedin<br>
+[<img align="left" alt="Martin Polo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <a href="https://www.linkedin.com/in/martinpolosantini/">Linkedin</a><br>
 <br>
-[<img align="left" alt="Martin Polo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] Instagram<br>
+[<img align="left" alt="Martin Polo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <a href="https://www.instagram.com/polosantini/">Instagram</a><br>
 
 [instagram]: https://www.instagram.com/polosantini/
 [linkedin]: https://www.linkedin.com/in/martinpolosantini/
