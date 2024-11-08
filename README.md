@@ -1,7 +1,7 @@
 <h1>Hello, I´m Martin Polo,<br/>a <a href="https://github.com/polosantini">Programmer</a> and Informatics Engineering Student</h1>
 <h2>🤓| I know:</h2>
-  -♨️ Basics of Java, not yet seen OOP<br>
-  -🐍 Basics of Python, looking to have a deeper knowledge in the future<br>
+  -♨️ Java basics, soon to be seeing OOP<br>
+  -🐍 Python basics, looking to have a deeper knowledge in the future<br>
   
 <h2>💻| Programming Projects: </h2>
   -♨️| <a href="https://github.com/polosantini/Java">My projects in Java</a><br>
