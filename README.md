@@ -10,10 +10,6 @@
 <h2>💻| My Programming Projects: </h2>
   -♨️| <a href="https://github.com/polosantini/Java">My projects in Java</a><br>
   -🐍| <a href="https://github.com/polosantini/Python">My projects in Python</a><br>
-<h2>😜| Fun Facts:</h2>
-  -🎹 I love playing the Piano<br>
-  -⚽ I like playing football and ultimate<br>
-  -🦉 My favourite animals are owls<br>
 <h2>📺| Recommended YouTube Videos & Channels</h2>
 <h3>Videos</h3>
   - <a href="https://www.youtube.com/watch?v=y8tlmEPKs38">Chopin: Complete Piano Works</a><br>
