@@ -2,7 +2,7 @@
 <h2>🔎| Here you will find:</h2>
   -🗄️| My current and future projects
 <h2>🌱| I´m currently: </h2>
-  -📚 Studying Informatics Engineering at Universidad de la Sabana, finishing my first semester<br>
+  -📚 Studying Informatics Engineering at Universidad de La Sabana, finishing my first semester<br>
   -🤔 Interested in Software Development and/or Cybersecurity<br>
 <h2>🤓| What I know:</h2>
   -♨️ Java basics, next to learn OOP<br>
