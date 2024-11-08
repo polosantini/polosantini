@@ -1,4 +1,4 @@
-<h1>Hello, I´m Martin Polo,<br/>a <a href="https://github.com/polosantini">Programmer</a> and Informatics Engineering Student</h1>
+<h1>Hello! I´m Martin Polo,<br/>a <a href="https://github.com/polosantini">Programmer</a> and Informatics Engineering Student</h1>
 <h2>🔎| Here you will find:</h2>
   -🗄️| My current and future projects
 <h2>🌱| I´m currently: </h2>
