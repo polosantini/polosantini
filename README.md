@@ -4,8 +4,8 @@
   -🐍 Basics of Python, looking to have a deeper knowledge in the future<br>
   
 <h2>💻| Programming Projects: </h2>
-  -<a href="https://github.com/polosantini/Java">My projects in Java</a><br>
-  -<a href="https://github.com/polosantini/Python">My projects in Python</a><br>
+  -♨️| <a href="https://github.com/polosantini/Java">My projects in Java</a><br>
+  -🐍| <a href="https://github.com/polosantini/Python">My projects in Python</a><br>
 <h2>🌱| I´m currently: </h2>
   -📚 Studying Informatics Engineering at Universidad de la Sabana, finishing my first semester<br>
   -🤔 Interested in Software Development and/or Cybersecurity<br>
