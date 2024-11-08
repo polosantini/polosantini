@@ -1,15 +1,15 @@
 <h1>Hello, I´m Martin Polo,<br/>a <a href="https://github.com/polosantini">Programmer</a> and Informatics Engineering Student</h1>
 <h2>🔎| Here you will find:</h2>
   -🗄️| My current and future projects, all uploaded to GitHub!!!
+<h2>🌱| I´m currently: </h2>
+  -📚 Studying Informatics Engineering at Universidad de la Sabana, finishing my first semester<br>
+  -🤔 Interested in Software Development and/or Cybersecurity<br>
 <h2>🤓| What I know:</h2>
   -♨️ Java basics, soon to be seeing OOP<br>
   -🐍 Python basics, looking to have a deeper knowledge in the future<br>
 <h2>💻| My Programming Projects: </h2>
   -♨️| <a href="https://github.com/polosantini/Java">My projects in Java</a><br>
   -🐍| <a href="https://github.com/polosantini/Python">My projects in Python</a><br>
-<h2>🌱| I´m currently: </h2>
-  -📚 Studying Informatics Engineering at Universidad de la Sabana, finishing my first semester<br>
-  -🤔 Interested in Software Development and/or Cybersecurity<br>
 <h2>😜| Fun Facts:</h2>
   -🎹 I love playing the Piano<br>
   -⚽ I like playing football and ultimate<br>
