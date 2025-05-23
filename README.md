@@ -5,11 +5,9 @@
   -📚 Studying Informatics Engineering at Universidad de La Sabana, finishing my first semester<br>
   -🤔 Interested in Software Development and/or Cybersecurity<br>
 <h2>🤓| What I know:</h2>
-  -♨️ Java basics, next to learn OOP<br>
-  -🐍 Python basics, looking to have a deeper knowledge in the future<br>
+  -♨️ Java, fluent in Object Oriented Programming<br>
+  -🐍 Python, knowledge in DSA<br>
 <h2>💻| My Programming Projects: </h2>
-  -♨️| <a href="https://github.com/polosantini/Java">My projects in Java</a><br>
-  -🐍| <a href="https://github.com/polosantini/Python">My projects in Python</a><br>
 <h2>📱| Connect with me:</h2>
 
 [<img align="left" alt="Martin Polo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <a href="https://www.linkedin.com/in/martinpolosantini/">Linkedin</a><br>
