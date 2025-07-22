@@ -1,13 +1,7 @@
 <h1>Hello! I´m Martin Polo,<br/>a <a href="https://github.com/polosantini">Programmer</a> and Informatics Engineering Student</h1>
-<h2>🔎| Here you will find:</h2>
-  -🗄️| My current and future projects
 <h2>🌱| I´m currently: </h2>
-  -📚 Studying Informatics Engineering at Universidad de La Sabana, finishing my first semester<br>
+  -📚 Studying Informatics Engineering at Universidad de La Sabana, starting my second year<br>
   -🤔 Interested in Software Development and/or Cybersecurity<br>
-<h2>🤓| What I know:</h2>
-  -♨️ Java, fluent in Object Oriented Programming<br>
-  -🐍 Python, knowledge in DSA<br>
-<h2>💻| My Programming Projects: </h2>
 <h2>📱| Connect with me:</h2>
 
 [<img align="left" alt="Martin Polo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <a href="https://www.linkedin.com/in/martinpolosantini/">Linkedin</a><br>
