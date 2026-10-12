@@ -1,6 +1,6 @@
 <h1>Hello! I´m Martin Polo,<br/>a <a href="https://github.com/polosantini">Programmer</a> and Informatics Engineering Student</h1>
 <h2>🌱| I´m currently: </h2>
-  -📚 Studying Informatics Engineering at Universidad de La Sabana, starting my second year<br>
+  -📚 Studying Informatics Engineering at Universidad de La Sabana, currently in my third yearr<br>
   -🤔 Interested in Software Development and/or Cybersecurity<br>
 <h2>📱| Connect with me:</h2>
 
